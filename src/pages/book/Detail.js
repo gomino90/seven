@@ -32,7 +32,7 @@ const Detail = (props) => {
     <div>
       <h1>책 상세보기</h1>
       <Button variant="warning" onClick={updateBook}>
-        수정삭제해
+        수정삭제해aaa
       </Button>
       <Button variant="warning" onClick={deleteBook}>
         삭제
